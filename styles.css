@@ -1,0 +1,152 @@
+.top {
+  background-color: #FEE3EC;
+  padding-top: 100px;
+  position: relative;
+}
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  line-height: 2px;
+}
+
+h3 {
+  font-family: 'Merriweather', serif;
+  color:  #11999E;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.cloud1 {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.m {
+  height: 400px;
+}
+.footer-link{
+    color:  #11999E;
+}
+.btn{
+    color:  #11999E;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+text-align: left;
+line-height: 2;
+}
+.a{
+  width: 20%;
+  float: right;
+  margin-bottom: 40px;
+  margin-left: 30px;
+}
+.b{
+    width: 20%;
+    float: left;
+    margin-right:   30px;
+
+}
+.profile{
+  padding: 30px;
+}
+p{
+  color: #40514E;
+  font-weight: bold;
+}
+.pa{
+  width: 30%;
+  margin: auto;}
+
+.head{
+  padding-bottom: 30px;
+}
+
+.last{
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+
+
+ hr {
+  border: dotted #EAF6F6 6px;
+  width:4%;
+  border-bottom: none ;
+  margin: 100px auto;
+}
+p{
+  line-height: 2;
+}
+
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Merriweather', serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.bottom-container{
+    background-color: #FEE3EC;
+  padding:  50px 0 20px 0;
+  margin-top: 50px;
+}
+a{
+  color:#408c99;
+    text-decoration: none;
+    margin: 10px 20px;
+    	font-family: 'Merriweather', serif;
+
+}
+a:hover{
+  color: white;
+
+}
+.copyright{
+  font-size: 1rem;
+    color:white;
+    padding: 10px;
+}
